@@ -1,0 +1,10 @@
+
+# num of people
+
+'num_of_people': 100
+
+# farm parameters
+'num_farm_workers': 10
+'profit_per_month': 20
+'cost_per_farm': 30
+'pay_per_work_worker_per_month': 1.5
